@@ -1,0 +1,38 @@
+{
+    "1": {
+        "name": "Slime",
+        "elem_name": "water",
+        "hp": 500,
+        "ap": 20,
+        "dp": 5
+    },
+    "2": {
+        "name": "Goblin",
+        "elem_name": "earth",
+        "hp": 1000,
+        "ap": 40,
+        "dp": 10
+    },
+    "3": {
+        "name": "Giant Bat",
+        "elem_name": "wood",
+        "hp": 1500,
+        "ap": 60,
+        "dp": 15
+    },
+    "4": {
+        "name": "Werewolf",
+        "elem_name": "metal",
+        "hp": 2500,
+        "ap": 80,
+        "dp": 25
+    },
+    "5": {
+        "name": "Dragon",
+        "elem_name": "fire",
+        "hp": 4000,
+        "ap": 100,
+        "dp": 50
+    }
+ 
+}

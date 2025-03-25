@@ -1,0 +1,26 @@
+{
+    "combo": {
+        "name": "Critical Momentum",
+        "desc": "{mod} x ATK with {value} or more combos"
+    },
+    "gem_count": {
+        "name": "Gem Harvest",
+        "desc": "{mod} x ATK when erasing {value} or more gems"
+    },
+    "type": {
+        "name": "Elemental Mastery",
+        "desc": "{mod} x ATK if {elem} gems erased this turn"
+    },
+    "high_hp": {
+        "name": "Iron Resolve",
+        "desc": "{mod} x ATK when HP is above {value}%"
+    },
+    "low_hp": {
+        "name": "Dangerous Gambit",
+        "desc": "{mod} x ATK when HP is below {value}%"
+    },
+    "heal_to_dmg": {
+        "name": "Soul Burn",
+        "desc": "{mod} x ATK if life gems erased this turn"
+    }
+}

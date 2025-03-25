@@ -1,0 +1,52 @@
+{
+    "1": {
+        "name": "Blue Dragon",
+        "elem_name": "wood",
+        "hp": 200,
+        "ap": 20,
+        "dp": 10,
+        "skill_id": "type",
+        "skill_mod":1.5,
+        "skill_value":0
+    },
+    "2": {
+        "name": "Red Phoenix",
+        "elem_name": "fire",
+        "hp": 150,
+        "ap": 25,
+        "dp": 10,
+        "skill_id": "gem_count",
+        "skill_mod":2,
+        "skill_value":4
+    },
+    "3": {
+        "name": "White Tiger",
+        "elem_name": "metal",
+        "hp": 150,
+        "ap": 30,
+        "dp": 5,
+        "skill_id": "combo",
+        "skill_mod":2.5,
+        "skill_value":5
+    },
+    "4": {
+        "name": "Black Tortoise",       
+        "elem_name": "water",
+        "hp": 200,
+        "ap": 10,
+        "dp": 20,
+        "skill_id": "high_hp",
+        "skill_mod":1.25,
+        "skill_value":80
+    },
+    "5": {
+        "name": "Yellow Qiling",
+        "elem_name": "earth",
+        "hp": 200,
+        "ap": 15,
+        "dp": 15,
+        "skill_id": "heal_to_dmg",
+        "skill_mod":2.5,
+        "skill_value":0
+    }
+}

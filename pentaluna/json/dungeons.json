@@ -1,0 +1,80 @@
+{
+   "1": {
+      "name": "Novice Tower",
+      "enemy_list": [
+         "1",
+         "2",
+         "7",
+         "11",
+         "20"
+      ],
+      "elem_name": "mixed"
+   },
+   "2": {
+      "name": "Fire Tower",
+      "enemy_list": [
+         "2",
+         "6",
+         "13",
+         "18",
+         "20",
+         "25"
+      ],
+      "elem_name": "fire"
+   },
+   "3": {
+      "name": "Water Tower",
+      "enemy_list": [
+         "3",
+         "8",
+         "9",
+         "16",
+         "22",
+         "26"
+      ],
+      "elem_name": "water"
+   },
+   "4": {
+      "name": "Earth Tower",
+      "enemy_list": [
+         "7",
+         "4",
+         "12",
+         "15",
+         "21",
+         "27"
+      ],
+      "elem_name": "earth"
+   },
+   "5": {
+      "name": "Wood Tower",
+      "enemy_list": [
+         "4",
+         "5",
+         "10",
+         "17",
+         "24",
+         "28"
+      ],
+      "elem_name": "wood"
+   },
+   "6": {
+      "name": "Metal Tower",
+      "enemy_list": [
+         "6",
+         "3",
+         "14",
+         "19",
+         "23",
+         "29"
+      ],
+      "elem_name": "metal"
+   },
+   "7": {
+      "name": "Elite Tower",
+      "enemy_list": [
+         "30"
+      ],
+      "elem_name": "mixed"
+   }
+}

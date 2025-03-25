@@ -1,0 +1,242 @@
+{
+    "1": {
+        "name": "Slime",
+        "elem_name": "water",
+        "hp": 600,
+        "attack": 8,
+        "defense": 6,
+        "skill": ""
+    },
+    "2": {
+        "name": "Goblin",
+        "elem_name": "fire",
+        "hp": 1400,
+        "attack": 28,
+        "defense": 19,
+        "skill": ""
+    },
+    "3": {
+        "name": "Giant Rat",
+        "elem_name": "earth",
+        "hp": 1000,
+        "attack": 28,
+        "defense": 12,
+        "skill": ""
+    },
+    "4": {
+        "name": "Zombie",
+        "elem_name": "earth",
+        "hp": 1000,
+        "attack": 24,
+        "defense": 13,
+        "skill": ""
+    },
+    "5": {
+        "name": "Pixie",
+        "elem_name": "wood",
+        "hp": 1300,
+        "attack": 24,
+        "defense": 12,
+        "skill": ""
+    },
+    "6": {
+        "name": "Kobold",
+        "elem_name": "metal",
+        "hp": 1800,
+        "attack": 20,
+        "defense": 16,
+        "skill": ""
+    },
+    "7": {
+        "name": "Giant Bat",
+        "elem_name": "wood",
+        "hp": 1500,
+        "attack": 26,
+        "defense": 9,
+        "skill": ""
+    },
+    "8": {
+        "name": "Nymph",
+        "elem_name": "water",
+        "hp": 1300,
+        "attack": 26,
+        "defense": 18,
+        "skill": ""
+    },
+    "9": {
+        "name": "Skeleton",
+        "elem_name": "earth",
+        "hp": 1800,
+        "attack": 28,
+        "defense": 32,
+        "skill": ""
+    },
+    "10": {
+        "name": "Orc",
+        "elem_name": "metal",
+        "hp": 2200,
+        "attack": 38,
+        "defense": 21,
+        "skill": ""
+    },
+    "11": {
+        "name": "Werewolf",
+        "elem_name": "wood",
+        "hp": 1500,
+        "attack": 28,
+        "defense": 24,
+        "skill": ""
+    },
+    "12": {
+        "name": "Vulture",
+        "elem_name": "wood",
+        "hp": 1900,
+        "attack": 36,
+        "defense": 16,
+        "skill": ""
+    },
+    "13": {
+        "name": "Imp",
+        "elem_name": "fire",
+        "hp": 3000,
+        "attack": 40,
+        "defense": 11,
+        "skill": ""
+    },
+    "14": {
+        "name": "Lich",
+        "elem_name": "water",
+        "hp": 1500,
+        "attack": 40,
+        "defense": 31,
+        "skill": ""
+    },
+    "15": {
+        "name": "Drake",
+        "elem_name": "metal",
+        "hp": 3000,
+        "attack": 64,
+        "defense": 20,
+        "skill": ""
+    },
+    "16": {
+        "name": "Unicorn",
+        "elem_name": "wood",
+        "hp": 1500,
+        "attack": 56,
+        "defense": 48,
+        "skill": ""
+    },
+    "17": {
+        "name": "Naga",
+        "elem_name": "fire",
+        "hp": 4800,
+        "attack": 46,
+        "defense": 16,
+        "skill": ""
+    },
+    "18": {
+        "name": "Minotaur",
+        "elem_name": "earth",
+        "hp": 2200,
+        "attack": 42,
+        "defense": 26,
+        "skill": ""
+    },
+    "19": {
+        "name": "Ice Golem",
+        "elem_name": "water",
+        "hp": 3800,
+        "attack": 48,
+        "defense": 31,
+        "skill": ""
+    },
+    "20": {
+        "name": "Dragon",
+        "elem_name": "fire",
+        "hp": 3000,
+        "attack": 88,
+        "defense": 43,
+        "skill": "weak"
+    },
+    "21": {
+        "name": "Iron Golem",
+        "elem_name": "metal",
+        "hp": 1800,
+        "attack": 64,
+        "defense": 60,
+        "skill": "weak"
+    },
+    "22": {
+        "name": "Wraith",
+        "elem_name": "wood",
+        "hp": 3700,
+        "attack": 72,
+        "defense": 39,
+        "skill": "weak"
+    },
+    "23": {
+        "name": "Sphinx",
+        "elem_name": "earth",
+        "hp": 3400,
+        "attack": 70,
+        "defense": 47,
+        "skill": "weak"
+    },
+    "24": {
+        "name": "Hydra",
+        "elem_name": "water",
+        "hp": 3500,
+        "attack": 62,
+        "defense": 38,
+        "skill": "weak"
+    },
+    "25": {
+        "name": "Demon",
+        "elem_name": "fire",
+        "hp": 5500,
+        "attack": 56,
+        "defense": 56,
+        "skill": "counter"
+    },
+    "26": {
+        "name": "Kraken",
+        "elem_name": "water",
+        "hp": 4900,
+        "attack": 96,
+        "defense": 32,
+        "skill": "flood"
+    },
+    "27": {
+        "name": "Elemental",
+        "elem_name": "earth",
+        "hp": 3900,
+        "attack": 104,
+        "defense": 23,
+        "skill": "shield"
+    },
+    "28": {
+        "name": "Ent",
+        "elem_name": "wood",
+        "hp": 4300,
+        "attack": 96,
+        "defense": 50,
+        "skill": "poison"
+    },
+    "29": {
+        "name": "Metal Dragon",
+        "elem_name": "metal",
+        "hp": 4800,
+        "attack": 76,
+        "defense": 27,
+        "skill": "destroy"
+    },
+    "30": {
+        "name": "Dark Mage",
+        "elem_name": "water",
+        "hp": 6100,
+        "attack": 128,
+        "defense": 38,
+        "skill": "void"
+    }
+}

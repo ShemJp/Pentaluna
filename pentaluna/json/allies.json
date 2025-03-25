@@ -1,0 +1,102 @@
+{
+    "1": {
+        "name": "Blue Dragon",
+        "elem_name": "wood",
+        "hp": 250,
+        "attack": 25,
+        "rcv": 20,
+        "skill_id": "type",
+        "skill_mod": 1.5,
+        "skill_value": 0
+    },
+    "2": {
+        "name": "Red Phoenix",
+        "elem_name": "fire",
+        "hp": 150,
+        "attack": 45,
+        "rcv": 20,
+        "skill_id": "gem_count",
+        "skill_mod": 2.5,
+        "skill_value": 5
+    },
+    "3": {
+        "name": "White Tiger",
+        "elem_name": "metal",
+        "hp": 200,
+        "attack": 50,
+        "rcv": 10,
+        "skill_id": "combo",
+        "skill_mod": 2.0,
+        "skill_value": 5
+    },
+    "4": {
+        "name": "Black Tortoise",
+        "elem_name": "water",
+        "hp": 350,
+        "attack": 30,
+        "rcv": 15,
+        "skill_id": "high_hp",
+        "skill_mod": 1.5,
+        "skill_value": 80
+    },
+    "5": {
+        "name": "Yellow Qiling",
+        "elem_name": "earth",
+        "hp": 150,
+        "attack": 30,
+        "rcv": 25,
+        "skill_id": "heal_to_dmg",
+        "skill_mod": 2.0,
+        "skill_value": 0
+    },
+    "6": {
+        "name": "Terra Ankylos",
+        "elem_name": "earth",
+        "hp": 300,
+        "attack": 30,
+        "rcv": 10,
+        "skill_id": "type",
+        "skill_mod": 2.0,
+        "skill_value": 0
+    },
+    "7": {
+        "name": "Tidal Rex",
+        "elem_name": "water",
+        "hp": 250,
+        "attack": 45,
+        "rcv": 10,
+        "skill_id": "low_hp",
+        "skill_mod": 2.0,
+        "skill_value": 50
+    },
+    "8": {
+        "name": "Ember Stego",
+        "elem_name": "fire",
+        "hp": 250,
+        "attack": 35,
+        "rcv": 20,
+        "skill_id": "combo",
+        "skill_mod": 2.5,
+        "skill_value": 6
+    },
+    "9": {
+        "name": "Verdant Tricera",
+        "elem_name": "wood",
+        "hp": 250,
+        "attack": 40,
+        "rcv": 15,
+        "skill_id": "heal_to_dmg",
+        "skill_mod": 1.5,
+        "skill_value": 0
+    },
+    "10": {
+        "name": "Silver Pteran",
+        "elem_name": "metal",
+        "hp": 200,
+        "attack": 40,
+        "rcv": 10,
+        "skill_id": "gem_count",
+        "skill_mod": 3.0,
+        "skill_value": 6
+    }
+}
